@@ -38,11 +38,17 @@ python2 wifi.py
 Script tidak akan berjalan baik jika lokasi handshake atau wordlist tidak tepat
 
 # Join
+<p align="left">
+<a href="https://github.com/alanward55"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
 
+<p align="left">
+<a href="https://t.me/terminalnewbe"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+</p>
 # Hubungi Saya
 Email : ondeuli@gmail.com<br>
 Phone : +6285326728933
 
 # Donasi
-Dana : 085326728933
+Dana : 085326728933<br>
 Doge : D7CeRA5VqnAGN7h4iL33N3ywx4pXUCLvWM
