@@ -14,7 +14,7 @@ cd wlan
 python2 wifi.py
 ```
 # File Wordlist
-Unduh file wordlist pada <a=href="https://bit.ly/3iCW48m">disini</a>
+Unduh file wordlist pada <a href="https://bit.ly/3iCW48m">disini</a>
 ## Cara Menggunakan
 -> Jalankan script<br>
 -> Isikan nama interface adapter wifi anda (paling bawah, biasanya wla0)<br>
