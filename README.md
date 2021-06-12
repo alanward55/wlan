@@ -1,5 +1,6 @@
 # Wlan
-Wlan adalah script dasar brute force dengan wordlist yang berisikan 14 juta kata sandi<br>
+Wlan adalah script dasar brute force wifi dengan wordlist yang berisikan 14 juta kata sandi<br>
+Dijalankan hanya pada Linux OS<br>
 
 # Instalasi
 ```
@@ -14,7 +15,9 @@ cd wlan
 python2 wifi.py
 ```
 # File Wordlist
-Unduh file wordlist pada <a href="https://bit.ly/3iCW48m">disini</a>
+Unduh file wordlist <a href="https://bit.ly/3iCW48m">disini</a> <br>
+File wordlist berukuran 133.4 mb, berisi 14.344.391 kata sandi
+
 ## Cara Menggunakan
 -> Jalankan script<br>
 -> Isikan nama interface adapter wifi anda (paling bawah, biasanya wla0)<br>
@@ -31,7 +34,7 @@ Unduh file wordlist pada <a href="https://bit.ly/3iCW48m">disini</a>
 -> Contoh: /home/alan/wifi/handshake
 -> Enter lalu tunggu hingga handshake ditemukan (wpa handshake found!)<br>
 -> Kemudian tekan ctrl+c lalu masukkan lokasi wordlist<br>
--> Lokasi wordlist bawaan adalah /home/user/wifi/worlist.txt<br>
+-> Lokasi wordlist bawaan adalah /home/user/Downloads/worlist.txt<br>
 -> /home bisa saja ditukar dengan root<br>
 -> /user sesuaikan dengan username linux anda<br>
 -> Kemudian tekan enter dan tunggu hingga wordlist menemukan kata sandi yang sesuai<br>
