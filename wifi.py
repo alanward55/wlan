@@ -59,7 +59,7 @@ for i in range(len(animasi)):
 print '\033[0;32m\n__________'
 wd = raw_input('''
 Masukkan lokasi wordlist: 
-Contoh: /home/user/wifi/wordlist.txt
+Contoh: /home/user/Downloads/wordlist.txt
 Lokasi: ''')
 time.sleep(2)
 print('\nREADY!')
